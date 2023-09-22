@@ -1,0 +1,14 @@
+This python code is writtern for filter-based feature selection method. Pseudocode of this code is discussed in Chapter 2. The dataset is "Standard Customer Data"which is already in the folder.
+
+1. In the Python code, first we uploaded the dataset (CSV).
+
+2. We devide the training and Testing Dataset into (80:20) ratio.
+
+3: Display Data
+
+4: Apply variance- threshold (0.01) based criteria to reduce the features
+
+5: Display the feature count after feature reduction
+
+6: Code is already given in Python Notebook and Word file for reviewer's understanding. 
+
